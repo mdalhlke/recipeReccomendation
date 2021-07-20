@@ -1,0 +1,22 @@
+{
+  "name": "nodedb",
+  "version": "1.0.0",
+  "description": "recipe recommendation",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdalhlke/recipeReccomendation.git"
+  },
+  "author": "Maya Dahlke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdalhlke/recipeReccomendation/issues"
+  },
+  "homepage": "https://github.com/mdalhlke/recipeReccomendation#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
