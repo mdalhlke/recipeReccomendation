@@ -1,4 +1,4 @@
-# Recipe Reccomendation
+# Recipe Recommendation
 ## Maya Dahlke
 
 ### What is Daily Bites?
