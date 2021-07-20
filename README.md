@@ -9,4 +9,4 @@ Daily Bites is a nutrition app that emphasizes eating a balanced diet rather tha
 
 ### This Repo
 
-This repo provides the backend recipe reccomendation portion of Daily Bites. However instead of Python Flask, this version is coded Node.js. 
+This repo provides the backend recipe recommendation portion of Daily Bites. However instead of Python Flask, this version is coded Node.js. 
